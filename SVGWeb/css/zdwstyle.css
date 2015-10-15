@@ -1,0 +1,55 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+
+#main{
+	width: 100%;
+	height: 100%;
+	background-color: rgba(220,220,220,0.5)
+}
+
+#banner{
+	width: 100%;
+	height: 30px;
+	background-color: rgb(29, 105, 202);
+}
+
+
+#title{
+	width: 100%;
+	text-align: center;
+	height: 30px;
+	font-family: arial;
+	font-size: 20px;
+	font-weight: 700;
+	padding-top: 20px;
+}
+
+#info{
+	width: 700px;
+	text-align: center;
+	font-family: arial;
+	font-size: 15px;
+	padding-top: 20px;
+	margin: 0 auto;
+}
+#bottom{
+	width: 100%;
+	height: 30px;
+	margin-top: 20px;
+	background-color: rgb(29, 105, 202);
+}
+
+#leftBtn,#rightBtn{
+	position: absolute;
+	top:-100px;
+	transition: opacity 2s;
+	-moz-transition: opacity 2s; /* Firefox 4 */
+	-webkit-transition: opacity 2s; /* Safari 和 Chrome */
+	-o-transition: opacity 2s; 
+}
+
+
+

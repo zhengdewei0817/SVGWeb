@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" id="Symbol_1" image-rendering="auto" baseProfile="basic" version="1.1" x="0px" y="0px" width="676" height="368" overflow="visible" xmlns="http://www.w3.org/2000/svg">
+	<g transform="matrix(1 0 0 1 576.1 349.9)">
+		<use xlink:href="#kropka_miga1" transform="matrix(1.001 0 0 1 -39.999 2.45)"/>
+		<use xlink:href="#kropka_miga2" transform="matrix(1.001 0 0 1 -27.499 2.45)"/>
+		<use xlink:href="#kropka_miga3" transform="matrix(1.001 0 0 1 -14.999 2.45)"/>
+		<use xlink:href="#kropka_miga4" transform="matrix(1.001 0 0 1 -2.499 2.45)"/>
+		<use xlink:href="#kropka_miga5" transform="matrix(1.001 0 0 1 9.95 2.45)"/>
+		<use xlink:href="#kropka_miga6" transform="matrix(1.001 0 0 1 22.45 2.45)"/>
+		<use xlink:href="#kropka_miga7" transform="matrix(1.001 0 0 1 34.95 2.45)"/>
+		<use xlink:href="#kropka_miga8" transform="matrix(1.001 0 0 1 47.45 2.45)"/>
+		<use xlink:href="#kropka_miga9" transform="matrix(1.001 0 0 1 59.95 2.45)"/>
+		<use xlink:href="#kropka_miga10" transform="matrix(1.001 0 0 1 72.45 2.45)"/>
+		<use xlink:href="#kropka_miga11" transform="matrix(1.001 0 0 1 84.95 2.45)"/>
+	</g>
+	<defs>
+		<filter id="Pointfilter1" filterUnits="objectBoundingBox" width="100%" height="100%" x="0%" y="0%">
+			<feComponentTransfer in="SourceGraphic" result="colorTrans">
+				<feFuncR type="linear" slope="1" intercept="0">
+					<animate  begin="indefinite" end="indefinite"  attributeName="intercept" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.736;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="0;0;0.047058823529411764;0.09019607843137255;0.13725490196078433;0.1803921568627451;0.22745098039215686;0.27058823529411763;0.3176470588235294;0.3607843137254902;0.3607843137254902;0.3215686274509804;0.2823529411764706;0.24313725490196078;0.2;0.1607843137254902;0.12156862745098039;0.08235294117647059;0.0392156862745098;0;0" calcMode="discrete"/>
+					<animate  begin="indefinite" end="indefinite"  attributeName="slope" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="1;1;0.88;0.75;0.63;0.5;0.38;0.25;0.13;0;0;0.13;0.25;0.38;0.5;0.63;0.75;0.88;1;1" calcMode="discrete"/>
+				</feFuncR>
+				<feFuncG type="linear" slope="1" intercept="0">
+					<animate  begin="indefinite" end="indefinite"  attributeName="intercept" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.736;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="0;0;0.058823529411764705;0.11764705882352941;0.17647058823529413;0.23529411764705882;0.2901960784313726;0.34901960784313724;0.40784313725490196;0.4666666666666667;0.4666666666666667;0.49019607843137253;0.42745098039215684;0.3686274509803922;0.3058823529411765;0.24705882352941178;0.1843137254901961;0.12156862745098039;0.06274509803921569;0;0" calcMode="discrete"/>
+					<animate  begin="indefinite" end="indefinite"  attributeName="slope" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="1;1;0.88;0.75;0.63;0.5;0.38;0.25;0.13;0;0;0.13;0.25;0.38;0.5;0.63;0.75;0.88;1;1" calcMode="discrete"/>
+				</feFuncG>
+				<feFuncB type="linear" slope="1" intercept="0">
+					<animate  begin="indefinite" end="indefinite"  attributeName="intercept" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.736;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="0;0;0.0784313725490196;0.1607843137254902;0.23921568627450981;0.3215686274509804;0.4;0.47843137254901963;0.5607843137254902;0.6392156862745098;0.6392156862745098;0.7411764705882353;0.6470588235294118;0.5568627450980392;0.4627450980392157;0.37254901960784315;0.2784313725490196;0.1843137254901961;0.09411764705882353;0;0" calcMode="discrete"/>
+					<animate  begin="indefinite" end="indefinite"  attributeName="slope" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="1;1;0.88;0.75;0.63;0.5;0.38;0.25;0.13;0;0;0.13;0.25;0.38;0.5;0.63;0.75;0.88;1;1" calcMode="discrete"/>
+				</feFuncB>
+			</feComponentTransfer>
+		</filter>
+		<symbol id="kropka_miga1" overflow="visible">
+			<path fill="#D2DAE6" stroke="#5C77A3" stroke-linecap="round" stroke-linejoin="round" d="M3.5,-3.5Q2.077,-4.923 0.075,-4.95 0.038,-4.95 0,-4.95 -0.063,-4.95 -0.125,-4.95 -0.175,-4.95 -0.225,-4.95 -0.639,-4.929 -1.025,-4.85 -2.429,-4.571 -3.5,-3.5 -4.95,-2.05 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-2.05 3.5,-3.5"/>
+		
+			<g style="display:none;">
+				<g id="point1" filter="url(#Pointfilter1)">
+					<path fill="#A6FFFF" d="M0.075,-4.95Q0.038,-4.95 0,-4.95 -0.063,-4.95 -0.125,-4.95 -0.175,-4.95 -0.225,-4.95 -0.639,-4.929 -1.025,-4.85 -2.429,-4.571 -3.5,-3.5 -4.95,-2.05 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-2.05 3.5,-3.5 2.077,-4.923 0.075,-4.95"/>
+				</g>
+				<animate  begin="indefinite" end="indefinite"  attributeName="display" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;1" values="none;inline;none"/>
+			</g>
+			<g style="display:none;">
+				<path fill="#A6FFFF" d="M3.725,-3.25Q3.623,-3.377 3.5,-3.5 2.05,-4.95 -0.05,-4.95 -2.139,-4.861 -3.5,-3.5 -3.623,-3.377 -3.725,-3.25 -4.95,-1.876 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-1.876 3.725,-3.25"/>
+				<animate  begin="indefinite" end="indefinite"  attributeName="display" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;1" values="inline;none;none"/>
+			</g>
+			<g style="display:none;">
+				<path fill="#D2DAE6" stroke="#5C77A3" stroke-linecap="round" stroke-linejoin="round" d="M3.45,-3.55Q2.176,-4.824 0.4,-4.975 0.203,-4.996 0,-5L-0.05,-5Q-0.125,-5 -0.2,-5 -2.153,-4.947 -3.55,-3.55 -3.673,-3.427 -3.775,-3.3 -5,-1.926 -5,-0.05 -5,2 -3.55,3.45 -2.1,4.9 -0.05,4.9 2,4.9 3.45,3.45 4.9,2 4.9,-0.05 4.9,-1.926 3.675,-3.3 3.573,-3.427 3.45,-3.55"/>
+				<animate  begin="indefinite" end="indefinite"  attributeName="display" repeatCount="indefinite" dur="1.36s" keyTimes="0;1;1" values="none;inline;none"/>
+			</g>
+			<path fill="none" stroke="#5C77A3" stroke-linecap="round" stroke-linejoin="round" d="M3.5,-3.5Q2.077,-4.923 0.075,-4.95 0.038,-4.95 0,-4.95 -0.063,-4.95 -0.125,-4.95 -0.175,-4.95 -0.225,-4.95 -0.639,-4.929 -1.025,-4.85 -2.429,-4.571 -3.5,-3.5 -4.95,-2.05 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-2.05 3.5,-3.5"/>
+		</symbol>
+		
+		
+		<!--point2-->
+		<filter id="Pointfilter2" filterUnits="objectBoundingBox" width="100%" height="100%" x="0%" y="0%">
+			<feComponentTransfer in="SourceGraphic" result="colorTrans">
+				<feFuncR type="linear" slope="1" intercept="0">
+					<animate  begin="indefinite" end="indefinite"  attributeName="intercept" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.736;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="0;0;0.047058823529411764;0.09019607843137255;0.13725490196078433;0.1803921568627451;0.22745098039215686;0.27058823529411763;0.3176470588235294;0.3607843137254902;0.3607843137254902;0.3215686274509804;0.2823529411764706;0.24313725490196078;0.2;0.1607843137254902;0.12156862745098039;0.08235294117647059;0.0392156862745098;0;0" calcMode="discrete"/>
+					<animate  begin="indefinite" end="indefinite"  attributeName="slope" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="1;1;0.88;0.75;0.63;0.5;0.38;0.25;0.13;0;0;0.13;0.25;0.38;0.5;0.63;0.75;0.88;1;1" calcMode="discrete"/>
+				</feFuncR>
+				<feFuncG type="linear" slope="1" intercept="0">
+					<animate  begin="indefinite" end="indefinite"  attributeName="intercept" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.736;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="0;0;0.058823529411764705;0.11764705882352941;0.17647058823529413;0.23529411764705882;0.2901960784313726;0.34901960784313724;0.40784313725490196;0.4666666666666667;0.4666666666666667;0.49019607843137253;0.42745098039215684;0.3686274509803922;0.3058823529411765;0.24705882352941178;0.1843137254901961;0.12156862745098039;0.06274509803921569;0;0" calcMode="discrete"/>
+					<animate  begin="indefinite" end="indefinite"  attributeName="slope" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="1;1;0.88;0.75;0.63;0.5;0.38;0.25;0.13;0;0;0.13;0.25;0.38;0.5;0.63;0.75;0.88;1;1" calcMode="discrete"/>
+				</feFuncG>
+				<feFuncB type="linear" slope="1" intercept="0">
+					<animate  begin="indefinite" end="indefinite"  attributeName="intercept" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.736;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="0;0;0.0784313725490196;0.1607843137254902;0.23921568627450981;0.3215686274509804;0.4;0.47843137254901963;0.5607843137254902;0.6392156862745098;0.6392156862745098;0.7411764705882353;0.6470588235294118;0.5568627450980392;0.4627450980392157;0.37254901960784315;0.2784313725490196;0.1843137254901961;0.09411764705882353;0;0" calcMode="discrete"/>
+					<animate  begin="indefinite" end="indefinite"  attributeName="slope" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="1;1;0.88;0.75;0.63;0.5;0.38;0.25;0.13;0;0;0.13;0.25;0.38;0.5;0.63;0.75;0.88;1;1" calcMode="discrete"/>
+				</feFuncB>
+			</feComponentTransfer>
+		</filter>
+		<symbol id="kropka_miga2" overflow="visible">
+			<path fill="#D2DAE6" stroke="#5C77A3" stroke-linecap="round" stroke-linejoin="round" d="M3.5,-3.5Q2.077,-4.923 0.075,-4.95 0.038,-4.95 0,-4.95 -0.063,-4.95 -0.125,-4.95 -0.175,-4.95 -0.225,-4.95 -0.639,-4.929 -1.025,-4.85 -2.429,-4.571 -3.5,-3.5 -4.95,-2.05 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-2.05 3.5,-3.5"/>
+		
+			<g style="display:none;">
+				<g id="point2" filter="url(#Pointfilter2)">
+					<path fill="#A6FFFF" d="M0.075,-4.95Q0.038,-4.95 0,-4.95 -0.063,-4.95 -0.125,-4.95 -0.175,-4.95 -0.225,-4.95 -0.639,-4.929 -1.025,-4.85 -2.429,-4.571 -3.5,-3.5 -4.95,-2.05 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-2.05 3.5,-3.5 2.077,-4.923 0.075,-4.95"/>
+				</g>
+				<animate  begin="indefinite" end="indefinite"  attributeName="display" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;1" values="none;inline;none"/>
+			</g>
+			<g style="display:none;">
+				<path fill="#A6FFFF" d="M3.725,-3.25Q3.623,-3.377 3.5,-3.5 2.05,-4.95 -0.05,-4.95 -2.139,-4.861 -3.5,-3.5 -3.623,-3.377 -3.725,-3.25 -4.95,-1.876 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-1.876 3.725,-3.25"/>
+				<animate  begin="indefinite" end="indefinite"  attributeName="display" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;1" values="inline;none;none"/>
+			</g>
+			<g style="display:none;">
+				<path fill="#D2DAE6" stroke="#5C77A3" stroke-linecap="round" stroke-linejoin="round" d="M3.45,-3.55Q2.176,-4.824 0.4,-4.975 0.203,-4.996 0,-5L-0.05,-5Q-0.125,-5 -0.2,-5 -2.153,-4.947 -3.55,-3.55 -3.673,-3.427 -3.775,-3.3 -5,-1.926 -5,-0.05 -5,2 -3.55,3.45 -2.1,4.9 -0.05,4.9 2,4.9 3.45,3.45 4.9,2 4.9,-0.05 4.9,-1.926 3.675,-3.3 3.573,-3.427 3.45,-3.55"/>
+				<animate  begin="indefinite" end="indefinite"  attributeName="display" repeatCount="indefinite" dur="1.36s" keyTimes="0;1;1" values="none;inline;none"/>
+			</g>
+			<path fill="none" stroke="#5C77A3" stroke-linecap="round" stroke-linejoin="round" d="M3.5,-3.5Q2.077,-4.923 0.075,-4.95 0.038,-4.95 0,-4.95 -0.063,-4.95 -0.125,-4.95 -0.175,-4.95 -0.225,-4.95 -0.639,-4.929 -1.025,-4.85 -2.429,-4.571 -3.5,-3.5 -4.95,-2.05 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-2.05 3.5,-3.5"/>
+		</symbol>
+		
+		
+		<!--point3-->
+		<filter id="Pointfilter3" filterUnits="objectBoundingBox" width="100%" height="100%" x="0%" y="0%">
+			<feComponentTransfer in="SourceGraphic" result="colorTrans">
+				<feFuncR type="linear" slope="1" intercept="0">
+					<animate  begin="indefinite" end="indefinite"  attributeName="intercept" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.736;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="0;0;0.047058823529411764;0.09019607843137255;0.13725490196078433;0.1803921568627451;0.22745098039215686;0.27058823529411763;0.3176470588235294;0.3607843137254902;0.3607843137254902;0.3215686274509804;0.2823529411764706;0.24313725490196078;0.2;0.1607843137254902;0.12156862745098039;0.08235294117647059;0.0392156862745098;0;0" calcMode="discrete"/>
+					<animate  begin="indefinite" end="indefinite"  attributeName="slope" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="1;1;0.88;0.75;0.63;0.5;0.38;0.25;0.13;0;0;0.13;0.25;0.38;0.5;0.63;0.75;0.88;1;1" calcMode="discrete"/>
+				</feFuncR>
+				<feFuncG type="linear" slope="1" intercept="0">
+					<animate  begin="indefinite" end="indefinite"  attributeName="intercept" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.736;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="0;0;0.058823529411764705;0.11764705882352941;0.17647058823529413;0.23529411764705882;0.2901960784313726;0.34901960784313724;0.40784313725490196;0.4666666666666667;0.4666666666666667;0.49019607843137253;0.42745098039215684;0.3686274509803922;0.3058823529411765;0.24705882352941178;0.1843137254901961;0.12156862745098039;0.06274509803921569;0;0" calcMode="discrete"/>
+					<animate  begin="indefinite" end="indefinite"  attributeName="slope" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="1;1;0.88;0.75;0.63;0.5;0.38;0.25;0.13;0;0;0.13;0.25;0.38;0.5;0.63;0.75;0.88;1;1" calcMode="discrete"/>
+				</feFuncG>
+				<feFuncB type="linear" slope="1" intercept="0">
+					<animate  begin="indefinite" end="indefinite"  attributeName="intercept" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.736;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="0;0;0.0784313725490196;0.1607843137254902;0.23921568627450981;0.3215686274509804;0.4;0.47843137254901963;0.5607843137254902;0.6392156862745098;0.6392156862745098;0.7411764705882353;0.6470588235294118;0.5568627450980392;0.4627450980392157;0.37254901960784315;0.2784313725490196;0.1843137254901961;0.09411764705882353;0;0" calcMode="discrete"/>
+					<animate  begin="indefinite" end="indefinite"  attributeName="slope" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="1;1;0.88;0.75;0.63;0.5;0.38;0.25;0.13;0;0;0.13;0.25;0.38;0.5;0.63;0.75;0.88;1;1" calcMode="discrete"/>
+				</feFuncB>
+			</feComponentTransfer>
+		</filter>
+		<symbol id="kropka_miga3" overflow="visible">
+			<path fill="#D2DAE6" stroke="#5C77A3" stroke-linecap="round" stroke-linejoin="round" d="M3.5,-3.5Q2.077,-4.923 0.075,-4.95 0.038,-4.95 0,-4.95 -0.063,-4.95 -0.125,-4.95 -0.175,-4.95 -0.225,-4.95 -0.639,-4.929 -1.025,-4.85 -2.429,-4.571 -3.5,-3.5 -4.95,-2.05 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-2.05 3.5,-3.5"/>
+		
+			<g style="display:none;">
+				<g id="point3" filter="url(#Pointfilter3)">
+					<path fill="#A6FFFF" d="M0.075,-4.95Q0.038,-4.95 0,-4.95 -0.063,-4.95 -0.125,-4.95 -0.175,-4.95 -0.225,-4.95 -0.639,-4.929 -1.025,-4.85 -2.429,-4.571 -3.5,-3.5 -4.95,-2.05 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-2.05 3.5,-3.5 2.077,-4.923 0.075,-4.95"/>
+				</g>
+				<animate  begin="indefinite" end="indefinite"  attributeName="display" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;1" values="none;inline;none"/>
+			</g>
+			<g style="display:none;">
+				<path fill="#A6FFFF" d="M3.725,-3.25Q3.623,-3.377 3.5,-3.5 2.05,-4.95 -0.05,-4.95 -2.139,-4.861 -3.5,-3.5 -3.623,-3.377 -3.725,-3.25 -4.95,-1.876 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-1.876 3.725,-3.25"/>
+				<animate  begin="indefinite" end="indefinite"  attributeName="display" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;1" values="inline;none;none"/>
+			</g>
+			<g style="display:none;">
+				<path fill="#D2DAE6" stroke="#5C77A3" stroke-linecap="round" stroke-linejoin="round" d="M3.45,-3.55Q2.176,-4.824 0.4,-4.975 0.203,-4.996 0,-5L-0.05,-5Q-0.125,-5 -0.2,-5 -2.153,-4.947 -3.55,-3.55 -3.673,-3.427 -3.775,-3.3 -5,-1.926 -5,-0.05 -5,2 -3.55,3.45 -2.1,4.9 -0.05,4.9 2,4.9 3.45,3.45 4.9,2 4.9,-0.05 4.9,-1.926 3.675,-3.3 3.573,-3.427 3.45,-3.55"/>
+				<animate  begin="indefinite" end="indefinite"  attributeName="display" repeatCount="indefinite" dur="1.36s" keyTimes="0;1;1" values="none;inline;none"/>
+			</g>
+			<path fill="none" stroke="#5C77A3" stroke-linecap="round" stroke-linejoin="round" d="M3.5,-3.5Q2.077,-4.923 0.075,-4.95 0.038,-4.95 0,-4.95 -0.063,-4.95 -0.125,-4.95 -0.175,-4.95 -0.225,-4.95 -0.639,-4.929 -1.025,-4.85 -2.429,-4.571 -3.5,-3.5 -4.95,-2.05 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-2.05 3.5,-3.5"/>
+		</symbol>
+		
+		<!--point4-->
+		<filter id="Pointfilter4" filterUnits="objectBoundingBox" width="100%" height="100%" x="0%" y="0%">
+			<feComponentTransfer in="SourceGraphic" result="colorTrans">
+				<feFuncR type="linear" slope="1" intercept="0">
+					<animate  begin="indefinite" end="indefinite"  attributeName="intercept" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.736;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="0;0;0.047058823529411764;0.09019607843137255;0.13725490196078433;0.1803921568627451;0.22745098039215686;0.27058823529411763;0.3176470588235294;0.3607843137254902;0.3607843137254902;0.3215686274509804;0.2823529411764706;0.24313725490196078;0.2;0.1607843137254902;0.12156862745098039;0.08235294117647059;0.0392156862745098;0;0" calcMode="discrete"/>
+					<animate  begin="indefinite" end="indefinite"  attributeName="slope" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="1;1;0.88;0.75;0.63;0.5;0.38;0.25;0.13;0;0;0.13;0.25;0.38;0.5;0.63;0.75;0.88;1;1" calcMode="discrete"/>
+				</feFuncR>
+				<feFuncG type="linear" slope="1" intercept="0">
+					<animate  begin="indefinite" end="indefinite"  attributeName="intercept" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.736;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="0;0;0.058823529411764705;0.11764705882352941;0.17647058823529413;0.23529411764705882;0.2901960784313726;0.34901960784313724;0.40784313725490196;0.4666666666666667;0.4666666666666667;0.49019607843137253;0.42745098039215684;0.3686274509803922;0.3058823529411765;0.24705882352941178;0.1843137254901961;0.12156862745098039;0.06274509803921569;0;0" calcMode="discrete"/>
+					<animate  begin="indefinite" end="indefinite"  attributeName="slope" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="1;1;0.88;0.75;0.63;0.5;0.38;0.25;0.13;0;0;0.13;0.25;0.38;0.5;0.63;0.75;0.88;1;1" calcMode="discrete"/>
+				</feFuncG>
+				<feFuncB type="linear" slope="1" intercept="0">
+					<animate  begin="indefinite" end="indefinite"  attributeName="intercept" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.736;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="0;0;0.0784313725490196;0.1607843137254902;0.23921568627450981;0.3215686274509804;0.4;0.47843137254901963;0.5607843137254902;0.6392156862745098;0.6392156862745098;0.7411764705882353;0.6470588235294118;0.5568627450980392;0.4627450980392157;0.37254901960784315;0.2784313725490196;0.1843137254901961;0.09411764705882353;0;0" calcMode="discrete"/>
+					<animate  begin="indefinite" end="indefinite"  attributeName="slope" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="1;1;0.88;0.75;0.63;0.5;0.38;0.25;0.13;0;0;0.13;0.25;0.38;0.5;0.63;0.75;0.88;1;1" calcMode="discrete"/>
+				</feFuncB>
+			</feComponentTransfer>
+		</filter>
+		<symbol id="kropka_miga4" overflow="visible">
+			<path fill="#D2DAE6" stroke="#5C77A3" stroke-linecap="round" stroke-linejoin="round" d="M3.5,-3.5Q2.077,-4.923 0.075,-4.95 0.038,-4.95 0,-4.95 -0.063,-4.95 -0.125,-4.95 -0.175,-4.95 -0.225,-4.95 -0.639,-4.929 -1.025,-4.85 -2.429,-4.571 -3.5,-3.5 -4.95,-2.05 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-2.05 3.5,-3.5"/>
+		
+			<g style="display:none;">
+				<g id="point4" filter="url(#Pointfilter4)">
+					<path fill="#A6FFFF" d="M0.075,-4.95Q0.038,-4.95 0,-4.95 -0.063,-4.95 -0.125,-4.95 -0.175,-4.95 -0.225,-4.95 -0.639,-4.929 -1.025,-4.85 -2.429,-4.571 -3.5,-3.5 -4.95,-2.05 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-2.05 3.5,-3.5 2.077,-4.923 0.075,-4.95"/>
+				</g>
+				<animate  begin="indefinite" end="indefinite"  attributeName="display" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;1" values="none;inline;none"/>
+			</g>
+			<g style="display:none;">
+				<path fill="#A6FFFF" d="M3.725,-3.25Q3.623,-3.377 3.5,-3.5 2.05,-4.95 -0.05,-4.95 -2.139,-4.861 -3.5,-3.5 -3.623,-3.377 -3.725,-3.25 -4.95,-1.876 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-1.876 3.725,-3.25"/>
+				<animate  begin="indefinite" end="indefinite"  attributeName="display" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;1" values="inline;none;none"/>
+			</g>
+			<g style="display:none;">
+				<path fill="#D2DAE6" stroke="#5C77A3" stroke-linecap="round" stroke-linejoin="round" d="M3.45,-3.55Q2.176,-4.824 0.4,-4.975 0.203,-4.996 0,-5L-0.05,-5Q-0.125,-5 -0.2,-5 -2.153,-4.947 -3.55,-3.55 -3.673,-3.427 -3.775,-3.3 -5,-1.926 -5,-0.05 -5,2 -3.55,3.45 -2.1,4.9 -0.05,4.9 2,4.9 3.45,3.45 4.9,2 4.9,-0.05 4.9,-1.926 3.675,-3.3 3.573,-3.427 3.45,-3.55"/>
+				<animate  begin="indefinite" end="indefinite"  attributeName="display" repeatCount="indefinite" dur="1.36s" keyTimes="0;1;1" values="none;inline;none"/>
+			</g>
+			<path fill="none" stroke="#5C77A3" stroke-linecap="round" stroke-linejoin="round" d="M3.5,-3.5Q2.077,-4.923 0.075,-4.95 0.038,-4.95 0,-4.95 -0.063,-4.95 -0.125,-4.95 -0.175,-4.95 -0.225,-4.95 -0.639,-4.929 -1.025,-4.85 -2.429,-4.571 -3.5,-3.5 -4.95,-2.05 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-2.05 3.5,-3.5"/>
+		</symbol>
+		
+		
+		
+		<!--point5-->
+		<filter id="Pointfilter5" filterUnits="objectBoundingBox" width="100%" height="100%" x="0%" y="0%">
+			<feComponentTransfer in="SourceGraphic" result="colorTrans">
+				<feFuncR type="linear" slope="1" intercept="0">
+					<animate  begin="indefinite" end="indefinite"  attributeName="intercept" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.736;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="0;0;0.047058823529411764;0.09019607843137255;0.13725490196078433;0.1803921568627451;0.22745098039215686;0.27058823529411763;0.3176470588235294;0.3607843137254902;0.3607843137254902;0.3215686274509804;0.2823529411764706;0.24313725490196078;0.2;0.1607843137254902;0.12156862745098039;0.08235294117647059;0.0392156862745098;0;0" calcMode="discrete"/>
+					<animate  begin="indefinite" end="indefinite"  attributeName="slope" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="1;1;0.88;0.75;0.63;0.5;0.38;0.25;0.13;0;0;0.13;0.25;0.38;0.5;0.63;0.75;0.88;1;1" calcMode="discrete"/>
+				</feFuncR>
+				<feFuncG type="linear" slope="1" intercept="0">
+					<animate  begin="indefinite" end="indefinite"  attributeName="intercept" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.736;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="0;0;0.058823529411764705;0.11764705882352941;0.17647058823529413;0.23529411764705882;0.2901960784313726;0.34901960784313724;0.40784313725490196;0.4666666666666667;0.4666666666666667;0.49019607843137253;0.42745098039215684;0.3686274509803922;0.3058823529411765;0.24705882352941178;0.1843137254901961;0.12156862745098039;0.06274509803921569;0;0" calcMode="discrete"/>
+					<animate  begin="indefinite" end="indefinite"  attributeName="slope" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="1;1;0.88;0.75;0.63;0.5;0.38;0.25;0.13;0;0;0.13;0.25;0.38;0.5;0.63;0.75;0.88;1;1" calcMode="discrete"/>
+				</feFuncG>
+				<feFuncB type="linear" slope="1" intercept="0">
+					<animate  begin="indefinite" end="indefinite"  attributeName="intercept" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.736;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="0;0;0.0784313725490196;0.1607843137254902;0.23921568627450981;0.3215686274509804;0.4;0.47843137254901963;0.5607843137254902;0.6392156862745098;0.6392156862745098;0.7411764705882353;0.6470588235294118;0.5568627450980392;0.4627450980392157;0.37254901960784315;0.2784313725490196;0.1843137254901961;0.09411764705882353;0;0" calcMode="discrete"/>
+					<animate  begin="indefinite" end="indefinite"  attributeName="slope" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="1;1;0.88;0.75;0.63;0.5;0.38;0.25;0.13;0;0;0.13;0.25;0.38;0.5;0.63;0.75;0.88;1;1" calcMode="discrete"/>
+				</feFuncB>
+			</feComponentTransfer>
+		</filter>
+		<symbol id="kropka_miga5" overflow="visible">
+			<path fill="#D2DAE6" stroke="#5C77A3" stroke-linecap="round" stroke-linejoin="round" d="M3.5,-3.5Q2.077,-4.923 0.075,-4.95 0.038,-4.95 0,-4.95 -0.063,-4.95 -0.125,-4.95 -0.175,-4.95 -0.225,-4.95 -0.639,-4.929 -1.025,-4.85 -2.429,-4.571 -3.5,-3.5 -4.95,-2.05 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-2.05 3.5,-3.5"/>
+		
+			<g style="display:none;">
+				<g id="point5" filter="url(#Pointfilter5)">
+					<path fill="#A6FFFF" d="M0.075,-4.95Q0.038,-4.95 0,-4.95 -0.063,-4.95 -0.125,-4.95 -0.175,-4.95 -0.225,-4.95 -0.639,-4.929 -1.025,-4.85 -2.429,-4.571 -3.5,-3.5 -4.95,-2.05 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-2.05 3.5,-3.5 2.077,-4.923 0.075,-4.95"/>
+				</g>
+				<animate  begin="indefinite" end="indefinite"  attributeName="display" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;1" values="none;inline;none"/>
+			</g>
+			<g style="display:none;">
+				<path fill="#A6FFFF" d="M3.725,-3.25Q3.623,-3.377 3.5,-3.5 2.05,-4.95 -0.05,-4.95 -2.139,-4.861 -3.5,-3.5 -3.623,-3.377 -3.725,-3.25 -4.95,-1.876 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-1.876 3.725,-3.25"/>
+				<animate  begin="indefinite" end="indefinite"  attributeName="display" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;1" values="inline;none;none"/>
+			</g>
+			<g style="display:none;">
+				<path fill="#D2DAE6" stroke="#5C77A3" stroke-linecap="round" stroke-linejoin="round" d="M3.45,-3.55Q2.176,-4.824 0.4,-4.975 0.203,-4.996 0,-5L-0.05,-5Q-0.125,-5 -0.2,-5 -2.153,-4.947 -3.55,-3.55 -3.673,-3.427 -3.775,-3.3 -5,-1.926 -5,-0.05 -5,2 -3.55,3.45 -2.1,4.9 -0.05,4.9 2,4.9 3.45,3.45 4.9,2 4.9,-0.05 4.9,-1.926 3.675,-3.3 3.573,-3.427 3.45,-3.55"/>
+				<animate  begin="indefinite" end="indefinite"  attributeName="display" repeatCount="indefinite" dur="1.36s" keyTimes="0;1;1" values="none;inline;none"/>
+			</g>
+			<path fill="none" stroke="#5C77A3" stroke-linecap="round" stroke-linejoin="round" d="M3.5,-3.5Q2.077,-4.923 0.075,-4.95 0.038,-4.95 0,-4.95 -0.063,-4.95 -0.125,-4.95 -0.175,-4.95 -0.225,-4.95 -0.639,-4.929 -1.025,-4.85 -2.429,-4.571 -3.5,-3.5 -4.95,-2.05 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-2.05 3.5,-3.5"/>
+		</symbol>
+		
+		
+		
+		<!--point6-->
+		<filter id="Pointfilter6" filterUnits="objectBoundingBox" width="100%" height="100%" x="0%" y="0%">
+			<feComponentTransfer in="SourceGraphic" result="colorTrans">
+				<feFuncR type="linear" slope="1" intercept="0">
+					<animate  begin="indefinite" end="indefinite"  attributeName="intercept" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.736;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="0;0;0.047058823529411764;0.09019607843137255;0.13725490196078433;0.1803921568627451;0.22745098039215686;0.27058823529411763;0.3176470588235294;0.3607843137254902;0.3607843137254902;0.3215686274509804;0.2823529411764706;0.24313725490196078;0.2;0.1607843137254902;0.12156862745098039;0.08235294117647059;0.0392156862745098;0;0" calcMode="discrete"/>
+					<animate  begin="indefinite" end="indefinite"  attributeName="slope" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="1;1;0.88;0.75;0.63;0.5;0.38;0.25;0.13;0;0;0.13;0.25;0.38;0.5;0.63;0.75;0.88;1;1" calcMode="discrete"/>
+				</feFuncR>
+				<feFuncG type="linear" slope="1" intercept="0">
+					<animate  begin="indefinite" end="indefinite"  attributeName="intercept" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.736;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="0;0;0.058823529411764705;0.11764705882352941;0.17647058823529413;0.23529411764705882;0.2901960784313726;0.34901960784313724;0.40784313725490196;0.4666666666666667;0.4666666666666667;0.49019607843137253;0.42745098039215684;0.3686274509803922;0.3058823529411765;0.24705882352941178;0.1843137254901961;0.12156862745098039;0.06274509803921569;0;0" calcMode="discrete"/>
+					<animate  begin="indefinite" end="indefinite"  attributeName="slope" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="1;1;0.88;0.75;0.63;0.5;0.38;0.25;0.13;0;0;0.13;0.25;0.38;0.5;0.63;0.75;0.88;1;1" calcMode="discrete"/>
+				</feFuncG>
+				<feFuncB type="linear" slope="1" intercept="0">
+					<animate  begin="indefinite" end="indefinite"  attributeName="intercept" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.736;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="0;0;0.0784313725490196;0.1607843137254902;0.23921568627450981;0.3215686274509804;0.4;0.47843137254901963;0.5607843137254902;0.6392156862745098;0.6392156862745098;0.7411764705882353;0.6470588235294118;0.5568627450980392;0.4627450980392157;0.37254901960784315;0.2784313725490196;0.1843137254901961;0.09411764705882353;0;0" calcMode="discrete"/>
+					<animate  begin="indefinite" end="indefinite"  attributeName="slope" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="1;1;0.88;0.75;0.63;0.5;0.38;0.25;0.13;0;0;0.13;0.25;0.38;0.5;0.63;0.75;0.88;1;1" calcMode="discrete"/>
+				</feFuncB>
+			</feComponentTransfer>
+		</filter>
+		<symbol id="kropka_miga6" overflow="visible">
+			<path fill="#D2DAE6" stroke="#5C77A3" stroke-linecap="round" stroke-linejoin="round" d="M3.5,-3.5Q2.077,-4.923 0.075,-4.95 0.038,-4.95 0,-4.95 -0.063,-4.95 -0.125,-4.95 -0.175,-4.95 -0.225,-4.95 -0.639,-4.929 -1.025,-4.85 -2.429,-4.571 -3.5,-3.5 -4.95,-2.05 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-2.05 3.5,-3.5"/>
+		
+			<g style="display:none;">
+				<g id="point6" filter="url(#Pointfilter6)">
+					<path fill="#A6FFFF" d="M0.075,-4.95Q0.038,-4.95 0,-4.95 -0.063,-4.95 -0.125,-4.95 -0.175,-4.95 -0.225,-4.95 -0.639,-4.929 -1.025,-4.85 -2.429,-4.571 -3.5,-3.5 -4.95,-2.05 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-2.05 3.5,-3.5 2.077,-4.923 0.075,-4.95"/>
+				</g>
+				<animate  begin="indefinite" end="indefinite"  attributeName="display" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;1" values="none;inline;none"/>
+			</g>
+			<g style="display:none;">
+				<path fill="#A6FFFF" d="M3.725,-3.25Q3.623,-3.377 3.5,-3.5 2.05,-4.95 -0.05,-4.95 -2.139,-4.861 -3.5,-3.5 -3.623,-3.377 -3.725,-3.25 -4.95,-1.876 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-1.876 3.725,-3.25"/>
+				<animate  begin="indefinite" end="indefinite"  attributeName="display" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;1" values="inline;none;none"/>
+			</g>
+			<g style="display:none;">
+				<path fill="#D2DAE6" stroke="#5C77A3" stroke-linecap="round" stroke-linejoin="round" d="M3.45,-3.55Q2.176,-4.824 0.4,-4.975 0.203,-4.996 0,-5L-0.05,-5Q-0.125,-5 -0.2,-5 -2.153,-4.947 -3.55,-3.55 -3.673,-3.427 -3.775,-3.3 -5,-1.926 -5,-0.05 -5,2 -3.55,3.45 -2.1,4.9 -0.05,4.9 2,4.9 3.45,3.45 4.9,2 4.9,-0.05 4.9,-1.926 3.675,-3.3 3.573,-3.427 3.45,-3.55"/>
+				<animate  begin="indefinite" end="indefinite"  attributeName="display" repeatCount="indefinite" dur="1.36s" keyTimes="0;1;1" values="none;inline;none"/>
+			</g>
+			<path fill="none" stroke="#5C77A3" stroke-linecap="round" stroke-linejoin="round" d="M3.5,-3.5Q2.077,-4.923 0.075,-4.95 0.038,-4.95 0,-4.95 -0.063,-4.95 -0.125,-4.95 -0.175,-4.95 -0.225,-4.95 -0.639,-4.929 -1.025,-4.85 -2.429,-4.571 -3.5,-3.5 -4.95,-2.05 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-2.05 3.5,-3.5"/>
+		</symbol>
+		
+		
+		<!--point7-->
+		<filter id="Pointfilter7" filterUnits="objectBoundingBox" width="100%" height="100%" x="0%" y="0%">
+			<feComponentTransfer in="SourceGraphic" result="colorTrans">
+				<feFuncR type="linear" slope="1" intercept="0">
+					<animate  begin="indefinite" end="indefinite"  attributeName="intercept" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.736;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="0;0;0.047058823529411764;0.09019607843137255;0.13725490196078433;0.1803921568627451;0.22745098039215686;0.27058823529411763;0.3176470588235294;0.3607843137254902;0.3607843137254902;0.3215686274509804;0.2823529411764706;0.24313725490196078;0.2;0.1607843137254902;0.12156862745098039;0.08235294117647059;0.0392156862745098;0;0" calcMode="discrete"/>
+					<animate  begin="indefinite" end="indefinite"  attributeName="slope" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="1;1;0.88;0.75;0.63;0.5;0.38;0.25;0.13;0;0;0.13;0.25;0.38;0.5;0.63;0.75;0.88;1;1" calcMode="discrete"/>
+				</feFuncR>
+				<feFuncG type="linear" slope="1" intercept="0">
+					<animate  begin="indefinite" end="indefinite"  attributeName="intercept" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.736;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="0;0;0.058823529411764705;0.11764705882352941;0.17647058823529413;0.23529411764705882;0.2901960784313726;0.34901960784313724;0.40784313725490196;0.4666666666666667;0.4666666666666667;0.49019607843137253;0.42745098039215684;0.3686274509803922;0.3058823529411765;0.24705882352941178;0.1843137254901961;0.12156862745098039;0.06274509803921569;0;0" calcMode="discrete"/>
+					<animate  begin="indefinite" end="indefinite"  attributeName="slope" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="1;1;0.88;0.75;0.63;0.5;0.38;0.25;0.13;0;0;0.13;0.25;0.38;0.5;0.63;0.75;0.88;1;1" calcMode="discrete"/>
+				</feFuncG>
+				<feFuncB type="linear" slope="1" intercept="0">
+					<animate  begin="indefinite" end="indefinite"  attributeName="intercept" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.736;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="0;0;0.0784313725490196;0.1607843137254902;0.23921568627450981;0.3215686274509804;0.4;0.47843137254901963;0.5607843137254902;0.6392156862745098;0.6392156862745098;0.7411764705882353;0.6470588235294118;0.5568627450980392;0.4627450980392157;0.37254901960784315;0.2784313725490196;0.1843137254901961;0.09411764705882353;0;0" calcMode="discrete"/>
+					<animate  begin="indefinite" end="indefinite"  attributeName="slope" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="1;1;0.88;0.75;0.63;0.5;0.38;0.25;0.13;0;0;0.13;0.25;0.38;0.5;0.63;0.75;0.88;1;1" calcMode="discrete"/>
+				</feFuncB>
+			</feComponentTransfer>
+		</filter>
+		<symbol id="kropka_miga7" overflow="visible">
+			<path fill="#D2DAE6" stroke="#5C77A3" stroke-linecap="round" stroke-linejoin="round" d="M3.5,-3.5Q2.077,-4.923 0.075,-4.95 0.038,-4.95 0,-4.95 -0.063,-4.95 -0.125,-4.95 -0.175,-4.95 -0.225,-4.95 -0.639,-4.929 -1.025,-4.85 -2.429,-4.571 -3.5,-3.5 -4.95,-2.05 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-2.05 3.5,-3.5"/>
+		
+			<g style="display:none;">
+				<g id="point7" filter="url(#Pointfilter7)">
+					<path fill="#A6FFFF" d="M0.075,-4.95Q0.038,-4.95 0,-4.95 -0.063,-4.95 -0.125,-4.95 -0.175,-4.95 -0.225,-4.95 -0.639,-4.929 -1.025,-4.85 -2.429,-4.571 -3.5,-3.5 -4.95,-2.05 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-2.05 3.5,-3.5 2.077,-4.923 0.075,-4.95"/>
+				</g>
+				<animate  begin="indefinite" end="indefinite"  attributeName="display" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;1" values="none;inline;none"/>
+			</g>
+			<g style="display:none;">
+				<path fill="#A6FFFF" d="M3.725,-3.25Q3.623,-3.377 3.5,-3.5 2.05,-4.95 -0.05,-4.95 -2.139,-4.861 -3.5,-3.5 -3.623,-3.377 -3.725,-3.25 -4.95,-1.876 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-1.876 3.725,-3.25"/>
+				<animate  begin="indefinite" end="indefinite"  attributeName="display" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;1" values="inline;none;none"/>
+			</g>
+			<g style="display:none;">
+				<path fill="#D2DAE6" stroke="#5C77A3" stroke-linecap="round" stroke-linejoin="round" d="M3.45,-3.55Q2.176,-4.824 0.4,-4.975 0.203,-4.996 0,-5L-0.05,-5Q-0.125,-5 -0.2,-5 -2.153,-4.947 -3.55,-3.55 -3.673,-3.427 -3.775,-3.3 -5,-1.926 -5,-0.05 -5,2 -3.55,3.45 -2.1,4.9 -0.05,4.9 2,4.9 3.45,3.45 4.9,2 4.9,-0.05 4.9,-1.926 3.675,-3.3 3.573,-3.427 3.45,-3.55"/>
+				<animate  begin="indefinite" end="indefinite"  attributeName="display" repeatCount="indefinite" dur="1.36s" keyTimes="0;1;1" values="none;inline;none"/>
+			</g>
+			<path fill="none" stroke="#5C77A3" stroke-linecap="round" stroke-linejoin="round" d="M3.5,-3.5Q2.077,-4.923 0.075,-4.95 0.038,-4.95 0,-4.95 -0.063,-4.95 -0.125,-4.95 -0.175,-4.95 -0.225,-4.95 -0.639,-4.929 -1.025,-4.85 -2.429,-4.571 -3.5,-3.5 -4.95,-2.05 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-2.05 3.5,-3.5"/>
+		</symbol>
+		
+		
+		
+		<!--point8-->
+		<filter id="Pointfilter8" filterUnits="objectBoundingBox" width="100%" height="100%" x="0%" y="0%">
+			<feComponentTransfer in="SourceGraphic" result="colorTrans">
+				<feFuncR type="linear" slope="1" intercept="0">
+					<animate  begin="indefinite" end="indefinite"  attributeName="intercept" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.736;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="0;0;0.047058823529411764;0.09019607843137255;0.13725490196078433;0.1803921568627451;0.22745098039215686;0.27058823529411763;0.3176470588235294;0.3607843137254902;0.3607843137254902;0.3215686274509804;0.2823529411764706;0.24313725490196078;0.2;0.1607843137254902;0.12156862745098039;0.08235294117647059;0.0392156862745098;0;0" calcMode="discrete"/>
+					<animate  begin="indefinite" end="indefinite"  attributeName="slope" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="1;1;0.88;0.75;0.63;0.5;0.38;0.25;0.13;0;0;0.13;0.25;0.38;0.5;0.63;0.75;0.88;1;1" calcMode="discrete"/>
+				</feFuncR>
+				<feFuncG type="linear" slope="1" intercept="0">
+					<animate  begin="indefinite" end="indefinite"  attributeName="intercept" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.736;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="0;0;0.058823529411764705;0.11764705882352941;0.17647058823529413;0.23529411764705882;0.2901960784313726;0.34901960784313724;0.40784313725490196;0.4666666666666667;0.4666666666666667;0.49019607843137253;0.42745098039215684;0.3686274509803922;0.3058823529411765;0.24705882352941178;0.1843137254901961;0.12156862745098039;0.06274509803921569;0;0" calcMode="discrete"/>
+					<animate  begin="indefinite" end="indefinite"  attributeName="slope" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="1;1;0.88;0.75;0.63;0.5;0.38;0.25;0.13;0;0;0.13;0.25;0.38;0.5;0.63;0.75;0.88;1;1" calcMode="discrete"/>
+				</feFuncG>
+				<feFuncB type="linear" slope="1" intercept="0">
+					<animate  begin="indefinite" end="indefinite"  attributeName="intercept" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.736;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="0;0;0.0784313725490196;0.1607843137254902;0.23921568627450981;0.3215686274509804;0.4;0.47843137254901963;0.5607843137254902;0.6392156862745098;0.6392156862745098;0.7411764705882353;0.6470588235294118;0.5568627450980392;0.4627450980392157;0.37254901960784315;0.2784313725490196;0.1843137254901961;0.09411764705882353;0;0" calcMode="discrete"/>
+					<animate  begin="indefinite" end="indefinite"  attributeName="slope" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="1;1;0.88;0.75;0.63;0.5;0.38;0.25;0.13;0;0;0.13;0.25;0.38;0.5;0.63;0.75;0.88;1;1" calcMode="discrete"/>
+				</feFuncB>
+			</feComponentTransfer>
+		</filter>
+		<symbol id="kropka_miga8" overflow="visible">
+			<path fill="#D2DAE6" stroke="#5C77A3" stroke-linecap="round" stroke-linejoin="round" d="M3.5,-3.5Q2.077,-4.923 0.075,-4.95 0.038,-4.95 0,-4.95 -0.063,-4.95 -0.125,-4.95 -0.175,-4.95 -0.225,-4.95 -0.639,-4.929 -1.025,-4.85 -2.429,-4.571 -3.5,-3.5 -4.95,-2.05 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-2.05 3.5,-3.5"/>
+		
+			<g style="display:none;">
+				<g id="point8" filter="url(#Pointfilter8)">
+					<path fill="#A6FFFF" d="M0.075,-4.95Q0.038,-4.95 0,-4.95 -0.063,-4.95 -0.125,-4.95 -0.175,-4.95 -0.225,-4.95 -0.639,-4.929 -1.025,-4.85 -2.429,-4.571 -3.5,-3.5 -4.95,-2.05 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-2.05 3.5,-3.5 2.077,-4.923 0.075,-4.95"/>
+				</g>
+				<animate  begin="indefinite" end="indefinite"  attributeName="display" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;1" values="none;inline;none"/>
+			</g>
+			<g style="display:none;">
+				<path fill="#A6FFFF" d="M3.725,-3.25Q3.623,-3.377 3.5,-3.5 2.05,-4.95 -0.05,-4.95 -2.139,-4.861 -3.5,-3.5 -3.623,-3.377 -3.725,-3.25 -4.95,-1.876 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-1.876 3.725,-3.25"/>
+				<animate  begin="indefinite" end="indefinite"  attributeName="display" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;1" values="inline;none;none"/>
+			</g>
+			<g style="display:none;">
+				<path fill="#D2DAE6" stroke="#5C77A3" stroke-linecap="round" stroke-linejoin="round" d="M3.45,-3.55Q2.176,-4.824 0.4,-4.975 0.203,-4.996 0,-5L-0.05,-5Q-0.125,-5 -0.2,-5 -2.153,-4.947 -3.55,-3.55 -3.673,-3.427 -3.775,-3.3 -5,-1.926 -5,-0.05 -5,2 -3.55,3.45 -2.1,4.9 -0.05,4.9 2,4.9 3.45,3.45 4.9,2 4.9,-0.05 4.9,-1.926 3.675,-3.3 3.573,-3.427 3.45,-3.55"/>
+				<animate  begin="indefinite" end="indefinite"  attributeName="display" repeatCount="indefinite" dur="1.36s" keyTimes="0;1;1" values="none;inline;none"/>
+			</g>
+			<path fill="none" stroke="#5C77A3" stroke-linecap="round" stroke-linejoin="round" d="M3.5,-3.5Q2.077,-4.923 0.075,-4.95 0.038,-4.95 0,-4.95 -0.063,-4.95 -0.125,-4.95 -0.175,-4.95 -0.225,-4.95 -0.639,-4.929 -1.025,-4.85 -2.429,-4.571 -3.5,-3.5 -4.95,-2.05 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-2.05 3.5,-3.5"/>
+		</symbol>
+		
+		
+		
+		<!--point9-->
+		<filter id="Pointfilter9" filterUnits="objectBoundingBox" width="100%" height="100%" x="0%" y="0%">
+			<feComponentTransfer in="SourceGraphic" result="colorTrans">
+				<feFuncR type="linear" slope="1" intercept="0">
+					<animate  begin="indefinite" end="indefinite"  attributeName="intercept" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.736;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="0;0;0.047058823529411764;0.09019607843137255;0.13725490196078433;0.1803921568627451;0.22745098039215686;0.27058823529411763;0.3176470588235294;0.3607843137254902;0.3607843137254902;0.3215686274509804;0.2823529411764706;0.24313725490196078;0.2;0.1607843137254902;0.12156862745098039;0.08235294117647059;0.0392156862745098;0;0" calcMode="discrete"/>
+					<animate  begin="indefinite" end="indefinite"  attributeName="slope" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="1;1;0.88;0.75;0.63;0.5;0.38;0.25;0.13;0;0;0.13;0.25;0.38;0.5;0.63;0.75;0.88;1;1" calcMode="discrete"/>
+				</feFuncR>
+				<feFuncG type="linear" slope="1" intercept="0">
+					<animate  begin="indefinite" end="indefinite"  attributeName="intercept" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.736;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="0;0;0.058823529411764705;0.11764705882352941;0.17647058823529413;0.23529411764705882;0.2901960784313726;0.34901960784313724;0.40784313725490196;0.4666666666666667;0.4666666666666667;0.49019607843137253;0.42745098039215684;0.3686274509803922;0.3058823529411765;0.24705882352941178;0.1843137254901961;0.12156862745098039;0.06274509803921569;0;0" calcMode="discrete"/>
+					<animate  begin="indefinite" end="indefinite"  attributeName="slope" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="1;1;0.88;0.75;0.63;0.5;0.38;0.25;0.13;0;0;0.13;0.25;0.38;0.5;0.63;0.75;0.88;1;1" calcMode="discrete"/>
+				</feFuncG>
+				<feFuncB type="linear" slope="1" intercept="0">
+					<animate  begin="indefinite" end="indefinite"  attributeName="intercept" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.736;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="0;0;0.0784313725490196;0.1607843137254902;0.23921568627450981;0.3215686274509804;0.4;0.47843137254901963;0.5607843137254902;0.6392156862745098;0.6392156862745098;0.7411764705882353;0.6470588235294118;0.5568627450980392;0.4627450980392157;0.37254901960784315;0.2784313725490196;0.1843137254901961;0.09411764705882353;0;0" calcMode="discrete"/>
+					<animate  begin="indefinite" end="indefinite"  attributeName="slope" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="1;1;0.88;0.75;0.63;0.5;0.38;0.25;0.13;0;0;0.13;0.25;0.38;0.5;0.63;0.75;0.88;1;1" calcMode="discrete"/>
+				</feFuncB>
+			</feComponentTransfer>
+		</filter>
+		<symbol id="kropka_miga9" overflow="visible">
+			<path fill="#D2DAE6" stroke="#5C77A3" stroke-linecap="round" stroke-linejoin="round" d="M3.5,-3.5Q2.077,-4.923 0.075,-4.95 0.038,-4.95 0,-4.95 -0.063,-4.95 -0.125,-4.95 -0.175,-4.95 -0.225,-4.95 -0.639,-4.929 -1.025,-4.85 -2.429,-4.571 -3.5,-3.5 -4.95,-2.05 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-2.05 3.5,-3.5"/>
+		
+			<g style="display:none;">
+				<g id="point9" filter="url(#Pointfilter9)">
+					<path fill="#A6FFFF" d="M0.075,-4.95Q0.038,-4.95 0,-4.95 -0.063,-4.95 -0.125,-4.95 -0.175,-4.95 -0.225,-4.95 -0.639,-4.929 -1.025,-4.85 -2.429,-4.571 -3.5,-3.5 -4.95,-2.05 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-2.05 3.5,-3.5 2.077,-4.923 0.075,-4.95"/>
+				</g>
+				<animate  begin="indefinite" end="indefinite"  attributeName="display" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;1" values="none;inline;none"/>
+			</g>
+			<g style="display:none;">
+				<path fill="#A6FFFF" d="M3.725,-3.25Q3.623,-3.377 3.5,-3.5 2.05,-4.95 -0.05,-4.95 -2.139,-4.861 -3.5,-3.5 -3.623,-3.377 -3.725,-3.25 -4.95,-1.876 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-1.876 3.725,-3.25"/>
+				<animate  begin="indefinite" end="indefinite"  attributeName="display" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;1" values="inline;none;none"/>
+			</g>
+			<g style="display:none;">
+				<path fill="#D2DAE6" stroke="#5C77A3" stroke-linecap="round" stroke-linejoin="round" d="M3.45,-3.55Q2.176,-4.824 0.4,-4.975 0.203,-4.996 0,-5L-0.05,-5Q-0.125,-5 -0.2,-5 -2.153,-4.947 -3.55,-3.55 -3.673,-3.427 -3.775,-3.3 -5,-1.926 -5,-0.05 -5,2 -3.55,3.45 -2.1,4.9 -0.05,4.9 2,4.9 3.45,3.45 4.9,2 4.9,-0.05 4.9,-1.926 3.675,-3.3 3.573,-3.427 3.45,-3.55"/>
+				<animate  begin="indefinite" end="indefinite"  attributeName="display" repeatCount="indefinite" dur="1.36s" keyTimes="0;1;1" values="none;inline;none"/>
+			</g>
+			<path fill="none" stroke="#5C77A3" stroke-linecap="round" stroke-linejoin="round" d="M3.5,-3.5Q2.077,-4.923 0.075,-4.95 0.038,-4.95 0,-4.95 -0.063,-4.95 -0.125,-4.95 -0.175,-4.95 -0.225,-4.95 -0.639,-4.929 -1.025,-4.85 -2.429,-4.571 -3.5,-3.5 -4.95,-2.05 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-2.05 3.5,-3.5"/>
+		</symbol>
+		
+		
+		<!--point10-->
+		<filter id="Pointfilter10" filterUnits="objectBoundingBox" width="100%" height="100%" x="0%" y="0%">
+			<feComponentTransfer in="SourceGraphic" result="colorTrans">
+				<feFuncR type="linear" slope="1" intercept="0">
+					<animate  begin="indefinite" end="indefinite"  attributeName="intercept" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.736;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="0;0;0.047058823529411764;0.09019607843137255;0.13725490196078433;0.1803921568627451;0.22745098039215686;0.27058823529411763;0.3176470588235294;0.3607843137254902;0.3607843137254902;0.3215686274509804;0.2823529411764706;0.24313725490196078;0.2;0.1607843137254902;0.12156862745098039;0.08235294117647059;0.0392156862745098;0;0" calcMode="discrete"/>
+					<animate  begin="indefinite" end="indefinite"  attributeName="slope" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="1;1;0.88;0.75;0.63;0.5;0.38;0.25;0.13;0;0;0.13;0.25;0.38;0.5;0.63;0.75;0.88;1;1" calcMode="discrete"/>
+				</feFuncR>
+				<feFuncG type="linear" slope="1" intercept="0">
+					<animate  begin="indefinite" end="indefinite"  attributeName="intercept" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.736;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="0;0;0.058823529411764705;0.11764705882352941;0.17647058823529413;0.23529411764705882;0.2901960784313726;0.34901960784313724;0.40784313725490196;0.4666666666666667;0.4666666666666667;0.49019607843137253;0.42745098039215684;0.3686274509803922;0.3058823529411765;0.24705882352941178;0.1843137254901961;0.12156862745098039;0.06274509803921569;0;0" calcMode="discrete"/>
+					<animate  begin="indefinite" end="indefinite"  attributeName="slope" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="1;1;0.88;0.75;0.63;0.5;0.38;0.25;0.13;0;0;0.13;0.25;0.38;0.5;0.63;0.75;0.88;1;1" calcMode="discrete"/>
+				</feFuncG>
+				<feFuncB type="linear" slope="1" intercept="0">
+					<animate  begin="indefinite" end="indefinite"  attributeName="intercept" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.736;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="0;0;0.0784313725490196;0.1607843137254902;0.23921568627450981;0.3215686274509804;0.4;0.47843137254901963;0.5607843137254902;0.6392156862745098;0.6392156862745098;0.7411764705882353;0.6470588235294118;0.5568627450980392;0.4627450980392157;0.37254901960784315;0.2784313725490196;0.1843137254901961;0.09411764705882353;0;0" calcMode="discrete"/>
+					<animate  begin="indefinite" end="indefinite"  attributeName="slope" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="1;1;0.88;0.75;0.63;0.5;0.38;0.25;0.13;0;0;0.13;0.25;0.38;0.5;0.63;0.75;0.88;1;1" calcMode="discrete"/>
+				</feFuncB>
+			</feComponentTransfer>
+		</filter>
+		<symbol id="kropka_miga10" overflow="visible">
+			<path fill="#D2DAE6" stroke="#5C77A3" stroke-linecap="round" stroke-linejoin="round" d="M3.5,-3.5Q2.077,-4.923 0.075,-4.95 0.038,-4.95 0,-4.95 -0.063,-4.95 -0.125,-4.95 -0.175,-4.95 -0.225,-4.95 -0.639,-4.929 -1.025,-4.85 -2.429,-4.571 -3.5,-3.5 -4.95,-2.05 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-2.05 3.5,-3.5"/>
+		
+			<g style="display:none;">
+				<g id="point10" filter="url(#Pointfilter10)">
+					<path fill="#A6FFFF" d="M0.075,-4.95Q0.038,-4.95 0,-4.95 -0.063,-4.95 -0.125,-4.95 -0.175,-4.95 -0.225,-4.95 -0.639,-4.929 -1.025,-4.85 -2.429,-4.571 -3.5,-3.5 -4.95,-2.05 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-2.05 3.5,-3.5 2.077,-4.923 0.075,-4.95"/>
+				</g>
+				<animate  begin="indefinite" end="indefinite"  attributeName="display" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;1" values="none;inline;none"/>
+			</g>
+			<g style="display:none;">
+				<path fill="#A6FFFF" d="M3.725,-3.25Q3.623,-3.377 3.5,-3.5 2.05,-4.95 -0.05,-4.95 -2.139,-4.861 -3.5,-3.5 -3.623,-3.377 -3.725,-3.25 -4.95,-1.876 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-1.876 3.725,-3.25"/>
+				<animate  begin="indefinite" end="indefinite"  attributeName="display" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;1" values="inline;none;none"/>
+			</g>
+			<g style="display:none;">
+				<path fill="#D2DAE6" stroke="#5C77A3" stroke-linecap="round" stroke-linejoin="round" d="M3.45,-3.55Q2.176,-4.824 0.4,-4.975 0.203,-4.996 0,-5L-0.05,-5Q-0.125,-5 -0.2,-5 -2.153,-4.947 -3.55,-3.55 -3.673,-3.427 -3.775,-3.3 -5,-1.926 -5,-0.05 -5,2 -3.55,3.45 -2.1,4.9 -0.05,4.9 2,4.9 3.45,3.45 4.9,2 4.9,-0.05 4.9,-1.926 3.675,-3.3 3.573,-3.427 3.45,-3.55"/>
+				<animate  begin="indefinite" end="indefinite"  attributeName="display" repeatCount="indefinite" dur="1.36s" keyTimes="0;1;1" values="none;inline;none"/>
+			</g>
+			<path fill="none" stroke="#5C77A3" stroke-linecap="round" stroke-linejoin="round" d="M3.5,-3.5Q2.077,-4.923 0.075,-4.95 0.038,-4.95 0,-4.95 -0.063,-4.95 -0.125,-4.95 -0.175,-4.95 -0.225,-4.95 -0.639,-4.929 -1.025,-4.85 -2.429,-4.571 -3.5,-3.5 -4.95,-2.05 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-2.05 3.5,-3.5"/>
+		</symbol>
+		
+		<!--point11-->
+		<filter id="Pointfilter11" filterUnits="objectBoundingBox" width="100%" height="100%" x="0%" y="0%">
+			<feComponentTransfer in="SourceGraphic" result="colorTrans">
+				<feFuncR type="linear" slope="1" intercept="0">
+					<animate  begin="indefinite" end="indefinite"  attributeName="intercept" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.736;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="0;0;0.047058823529411764;0.09019607843137255;0.13725490196078433;0.1803921568627451;0.22745098039215686;0.27058823529411763;0.3176470588235294;0.3607843137254902;0.3607843137254902;0.3215686274509804;0.2823529411764706;0.24313725490196078;0.2;0.1607843137254902;0.12156862745098039;0.08235294117647059;0.0392156862745098;0;0" calcMode="discrete"/>
+					<animate  begin="indefinite" end="indefinite"  attributeName="slope" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="1;1;0.88;0.75;0.63;0.5;0.38;0.25;0.13;0;0;0.13;0.25;0.38;0.5;0.63;0.75;0.88;1;1" calcMode="discrete"/>
+				</feFuncR>
+				<feFuncG type="linear" slope="1" intercept="0">
+					<animate  begin="indefinite" end="indefinite"  attributeName="intercept" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.736;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="0;0;0.058823529411764705;0.11764705882352941;0.17647058823529413;0.23529411764705882;0.2901960784313726;0.34901960784313724;0.40784313725490196;0.4666666666666667;0.4666666666666667;0.49019607843137253;0.42745098039215684;0.3686274509803922;0.3058823529411765;0.24705882352941178;0.1843137254901961;0.12156862745098039;0.06274509803921569;0;0" calcMode="discrete"/>
+					<animate  begin="indefinite" end="indefinite"  attributeName="slope" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="1;1;0.88;0.75;0.63;0.5;0.38;0.25;0.13;0;0;0.13;0.25;0.38;0.5;0.63;0.75;0.88;1;1" calcMode="discrete"/>
+				</feFuncG>
+				<feFuncB type="linear" slope="1" intercept="0">
+					<animate  begin="indefinite" end="indefinite"  attributeName="intercept" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.736;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="0;0;0.0784313725490196;0.1607843137254902;0.23921568627450981;0.3215686274509804;0.4;0.47843137254901963;0.5607843137254902;0.6392156862745098;0.6392156862745098;0.7411764705882353;0.6470588235294118;0.5568627450980392;0.4627450980392157;0.37254901960784315;0.2784313725490196;0.1843137254901961;0.09411764705882353;0;0" calcMode="discrete"/>
+					<animate  begin="indefinite" end="indefinite"  attributeName="slope" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;0.206;0.235;0.265;0.294;0.324;0.353;0.382;0.412;0.735;0.765;0.794;0.824;0.853;0.882;0.912;0.941;0.971;1" values="1;1;0.88;0.75;0.63;0.5;0.38;0.25;0.13;0;0;0.13;0.25;0.38;0.5;0.63;0.75;0.88;1;1" calcMode="discrete"/>
+				</feFuncB>
+			</feComponentTransfer>
+		</filter>
+		<symbol id="kropka_miga11" overflow="visible">
+			<path fill="#D2DAE6" stroke="#5C77A3" stroke-linecap="round" stroke-linejoin="round" d="M3.5,-3.5Q2.077,-4.923 0.075,-4.95 0.038,-4.95 0,-4.95 -0.063,-4.95 -0.125,-4.95 -0.175,-4.95 -0.225,-4.95 -0.639,-4.929 -1.025,-4.85 -2.429,-4.571 -3.5,-3.5 -4.95,-2.05 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-2.05 3.5,-3.5"/>
+		
+			<g style="display:none;">
+				<g id="point11" filter="url(#Pointfilter11)">
+					<path fill="#A6FFFF" d="M0.075,-4.95Q0.038,-4.95 0,-4.95 -0.063,-4.95 -0.125,-4.95 -0.175,-4.95 -0.225,-4.95 -0.639,-4.929 -1.025,-4.85 -2.429,-4.571 -3.5,-3.5 -4.95,-2.05 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-2.05 3.5,-3.5 2.077,-4.923 0.075,-4.95"/>
+				</g>
+				<animate  begin="indefinite" end="indefinite"  attributeName="display" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;1" values="none;inline;none"/>
+			</g>
+			<g style="display:none;">
+				<path fill="#A6FFFF" d="M3.725,-3.25Q3.623,-3.377 3.5,-3.5 2.05,-4.95 -0.05,-4.95 -2.139,-4.861 -3.5,-3.5 -3.623,-3.377 -3.725,-3.25 -4.95,-1.876 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-1.876 3.725,-3.25"/>
+				<animate begin="indefinite" end="indefinite"  attributeName="display" repeatCount="indefinite" dur="1.36s" keyTimes="0;0.176;1" values="inline;none;none"/>
+			</g>
+			<g style="display:none;">
+				<path fill="#D2DAE6" stroke="#5C77A3" stroke-linecap="round" stroke-linejoin="round" d="M3.45,-3.55Q2.176,-4.824 0.4,-4.975 0.203,-4.996 0,-5L-0.05,-5Q-0.125,-5 -0.2,-5 -2.153,-4.947 -3.55,-3.55 -3.673,-3.427 -3.775,-3.3 -5,-1.926 -5,-0.05 -5,2 -3.55,3.45 -2.1,4.9 -0.05,4.9 2,4.9 3.45,3.45 4.9,2 4.9,-0.05 4.9,-1.926 3.675,-3.3 3.573,-3.427 3.45,-3.55"/>
+				<animate  begin="indefinite" end="indefinite"  attributeName="display" repeatCount="indefinite" dur="1.36s" keyTimes="0;1;1" values="none;inline;none"/>
+			</g>
+			<path fill="none" stroke="#5C77A3" stroke-linecap="round" stroke-linejoin="round" d="M3.5,-3.5Q2.077,-4.923 0.075,-4.95 0.038,-4.95 0,-4.95 -0.063,-4.95 -0.125,-4.95 -0.175,-4.95 -0.225,-4.95 -0.639,-4.929 -1.025,-4.85 -2.429,-4.571 -3.5,-3.5 -4.95,-2.05 -4.95,0 -4.95,2.05 -3.5,3.5 -2.05,4.95 0,4.95 2.05,4.95 3.5,3.5 4.95,2.05 4.95,0 4.95,-2.05 3.5,-3.5"/>
+		</symbol>
+		
+		
+		
+	</defs>
+</svg>

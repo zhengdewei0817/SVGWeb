@@ -1,0 +1,96 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+body{
+	overflow:scroll;
+	overflow-x: hidden;
+	
+}
+
+
+#MyLife{
+	position: absolute;
+	top: 0;
+	left:0;
+	z-index: 100;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(220,220,220,1);
+	transition: opacity 0.5s;
+	-moz-transition: opacity 0.5s;
+	-webkit-transition:opacity 0.5s;
+	-o-transition:opacity 0.5s;
+}
+.Loading{
+	font-family: arial;
+	font-size: 80px;
+	font-weight: 700;
+	position: absolute;
+	top: 0;
+	left: 0;
+	transition: transform 0.2s,opacity 0.1s;
+	-moz-transition: -moz-transition 0.2s,opacity 0.1s;
+	-webkit-transition: -webkit-transform 0.2s,opacity 0.1s;
+	-o-transition: transform 0.2s,opacity 0.1s;
+}
+.Secle{
+	transition: transform 0.5s,opacity 0.1s;
+	-moz-transition: -moz-transform 0.5s,opacity 0.1s;
+	-webkit-transition: -webkit-transform 0.5s,opacity 0.1s;
+	-o-transition: transform 0.5s,opacity 0.1s;
+}
+.myHead{
+	/*transform-origin:50% 50%*/
+	position: absolute;
+	z-index: 100;
+	animation: myHA 0.5s linear 0s infinite ;
+	-moz-animation: myHA 0.5s linear 0s infinite ;
+	-webkit-animation: myHA 0.5s linear 0s infinite ;
+	-o-animation: myHA 0.5s linear 0s infinite ;
+}
+
+@keyframes myHA
+{
+	0%   {transform:rotate(0deg)}
+	25%  {transform:rotate(2deg)}
+	50%  {transform:rotate(0deg)}
+	75%  {transform:rotate(-2deg)}
+	100% {transform:rotate(0deg)}
+}
+@-moz-keyframes myHA 
+{
+	0%   {-moz-transform:rotate(0deg)}
+	25%  {-moz-transform:rotate(2deg)}
+	50%  {-moz-transform:rotate(0deg)}
+	75%  {-moz-transform:rotate(-2deg)}
+	100% {-moz-transform:rotate(0deg)}
+}
+@-webkit-keyframes myHA
+{
+	0%   {-webkit-transform:rotate(0deg)}
+	25%  {-webkit-transform:rotate(2deg)}
+	50%  {-webkit-transform:rotate(0deg)}
+	75%  {-webkit-transform:rotate(-2deg)}
+	100% {-webkit-transform:rotate(0deg)}
+}
+@-o-keyframes myHA
+{
+	0%   {transform:rotate(0deg)}
+	25%  {transform:rotate(2deg)}
+	50%  {transform:rotate(0deg)}
+	75%  {transform:rotate(-2deg)}
+	100% {transform:rotate(0deg)}
+}
+
+.MyText {
+	position: absolute;
+	transition:opacity 1s;
+	-moz-transition: opacity 1s;
+	-webkit-transition: opacity 1s;
+	-o-transition: opacity 1s;
+	font-family: arial;
+	font-size: 18px;
+	line-height: 25px;
+}

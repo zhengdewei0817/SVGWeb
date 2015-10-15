@@ -1,0 +1,73 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#container{/*******************************************************此处需要修改名字*/
+	position: relative;
+	margin: 0;
+	padding: 0;
+	-moz-user-select:none; /*火狐*/
+    -webkit-user-select:none; /*webkit浏览器*/
+    -ms-user-select:none; /*IE10*/
+    -khtml-user-select:none; /*早期浏览器*/
+     user-select:none;
+     width: 676px;
+     height: 368px;
+     background-color: rgb(220,237,253);
+     
+     
+     FILTER: progid:DXImageTransform.Microsoft.Gradient(gradientType=0,startColorStr=#DCEDFD,endColorStr=#F6FAFE); /*IE 6 7 8*/ 
+
+	background: -webkit-linear-gradient(#DCEDFD, #F6FAFE);
+	background: -moz-linear-gradient(#DCEDFD, #F6FAFE);
+	background: -o-linear-gradient(#DCEDFD, #F6FAFE);
+	background: -webkit-gradient(linear, 0 0, 0 100%, from(#DCEDFD), to(#F6FAFE));
+	background: linear-gradient(#DCEDFD, #F6FAFE);        /* IE 10 */
+/*火狐*/ 
+/*谷歌*/ 
+      /* Safari 4-5, Chrome 1-9*/
+   /*Safari5.1 Chrome 10+*/
+  /*Opera 11.10+*/
+     
+     
+     
+     
+}
+
+
+#uc_s3_l051_p07_ii01_pic {
+	width: 240px;
+	height: 182px;
+	background-color: #0099FF;
+	padding: 2px;
+	opacity: 0;
+	-webkit-transition: all .1s ease-in;
+	-moz-transition: all .1s ease-in;
+	-o-transition: all .1s ease-in;
+	transition: all .1s ease-in;
+	position: absolute;
+	left:409.95px;
+	top:25.35px;
+}
+/*#uc_s3_l051_p07_ii01_pic img{
+	display: block;
+	position: relative;
+}*/
+
+.divtxt{
+	padding: 8px 8px 8px 8px;
+	position: absolute;
+	top:130px;
+	left: 0;
+	width: auto;
+	background-color: rgba(255,255,255,1);
+	border: 1px solid #5C77A3;
+	font-family: arial;
+	font-size: 12px;
+	word-wrap:break-word;
+	color: #5C77A3;
+}
+
+
+
+
